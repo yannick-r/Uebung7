@@ -103,6 +103,8 @@ Landolt Severin - sevlan
 
 Leu Marco - marco-leu
 
+Looser Kevin - Chewae
+
 ## M
 
 Mangold Dominik - mandom01
