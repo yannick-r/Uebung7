@@ -60,6 +60,8 @@ Freimann Sven - SFreimann
 
 Forrer Nicolas - nicolasforrer
 
+Freudiger Brian - studch
+
 Freudiger Jessica - jfreudiger
 
 ## G
