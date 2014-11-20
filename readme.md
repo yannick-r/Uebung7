@@ -37,8 +37,6 @@ Coray Sein - KnockKnock666
 
 ## D
 
-Delpho Jan-Marc - Jan-Marc
-
 Drescher Lukas - upoi
 
 Dähler Maurus - X-Hades-X
@@ -79,6 +77,8 @@ Grimm Florian - flori4
 ## H
 
 Hirt Fabio - fhirt
+
+Huber Annika - annikahu
 
 Hugentobler Matias - Xetolosch
 
