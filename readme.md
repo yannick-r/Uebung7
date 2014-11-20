@@ -141,6 +141,7 @@ Rölli Thomas - Abrahma
 Rieser Denise - DRieser
 ## S
 
+<<<<<<< HEAD
 Saladin Martin - martinSal 
 
 Sidler Anika - Anika95
@@ -162,6 +163,10 @@ Sakenov Renat - renat1sakenov
 Scherrer Dan-Felix - DFScherrer
 
 Stübben Fabian - fabian1234
+=======
+Dan-Felix Scherrer - DFScherrer
+
+>>>>>>> cd3c21d77a2a1ee6ca72781ba662802f521c253f
 ## T
 Tanner Georg - GeorgTanner
 
